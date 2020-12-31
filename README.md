@@ -1,8 +1,7 @@
-# Sistema para loja ZecaAutos construido com Angular/cli
+# Sistema completo para agencia de veiculos (ZecaAutos) construido em Angular/cli
 
 # Apresentação
-## Olá pessoal meu nome é josé carlos sou desenvolvedor de software,bem vindo a meu projeto de Sistema para agencia com tela para
-## cadastrar,editar,excluir e adicionar.
+## Olá pessoal meu nome é josé carlos sou desenvolvedor de software,bem vindo a meu projeto de Sistema para agencia com tela para cadastrar,editar,excluir e adicionar.
 ## Este projeto foi criado com Angular CLI (https://github.com/angular/angular-cli) version 11.0.5.
 
 ## Development server
